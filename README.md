@@ -1,4 +1,6 @@
+# Welcome to my channel!
 
+<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/2d35cb77f346a9dd8eac24a8d4214f7829f25edd/3.png" >
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nh.Thanh.Hoa/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarahs.mim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quan-thi-thanh-hoa-863111237/) 
 
@@ -11,8 +13,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/2d35cb77f346a9dd8eac24a8d4214f7829f25edd/3.png" >
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Quan-Thi-Thanh-Hoa&icon=2&color=2)](https://visitcount.itsvg.in)
