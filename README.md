@@ -16,7 +16,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
 
-<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/c7bdf84f11e65b23610f72fc2b214865117ec96d/_Aesthetic%20Minimalist%20Signature%20Logo%20Makeup%20Studio%20Brush%20(6).png" width="250 >
+<img src="[https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/c7bdf84f11e65b23610f72fc2b214865117ec96d/_Aesthetic%20Minimalist%20Signature%20Logo%20Makeup%20Studio%20Brush%20(6).png](https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/f38204d997ab6cdb19843318f9c1c4b71b91228f/1.gif)" width="250 >
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Quan-Thi-Thanh-Hoa&icon=2&color=2)](https://visitcount.itsvg.in)
