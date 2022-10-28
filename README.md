@@ -12,8 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/2d35cb77f346a9dd8eac24a8d4214f7829f25edd/3.png" >
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Quan-Thi-Thanh-Hoa&icon=2&color=2)](https://visitcount.itsvg.in)
