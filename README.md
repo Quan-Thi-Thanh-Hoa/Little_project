@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nh.Thanh.Hoa/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarahs.mim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quan-thi-thanh-hoa-863111237/) 
 
-## Welcome to my channel!
+## Welcome to my channel! 🔥
 
 <img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/c7bdf84f11e65b23610f72fc2b214865117ec96d/_Aesthetic%20Minimalist%20Signature%20Logo%20Makeup%20Studio%20Brush%20(6).png" >
 
