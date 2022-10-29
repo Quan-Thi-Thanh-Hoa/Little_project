@@ -1,8 +1,8 @@
 # Report SoBanHang's Analyst Performance
 
-## SOBANHANG'S Traffic Trend
+## SoBanHang'S Traffic Trend
 
-Trực quan hóa dữ liệu bằng [!Power BI]
+Trực quan hóa dữ liệu bằng [Power BI]
 
 <img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/20ed60b1896ee9a43106a6e2d0e5850a6f5d3de8/Screenshot%202022-10-29%20152547.png">
 
@@ -37,7 +37,7 @@ Tuy nhiên các chỉ số ở cả hai ngành hàng cho thấy số lượng gi
 Từ đây, ta cũng thấy được đối với nhóm hàng F&B, lượng khách hàng quan tâm chính sẽ ở khu vực Hà Nội và tương tự như thế, tại Long An, nhóm khách hàng quan tâm chính ở đây là thực phẩm.
 
 
-## personal marketing brand
+## Personal Marketing Brand
 
 <img src="https://media-exp1.licdn.com/dms/image/C561BAQEWcBOxrvwIqA/company-background_10000/0/1650336590949?e=2147483647&v=beta&t=ODhLo7XemuwDF6BmG0d-r2OZRMo0vU56Eybgfrxll8k">
 
@@ -90,3 +90,5 @@ Không nhất thiết phải bỏ tiền vào TVC để phát sóng, muốn vira
 Đến với Sổ Bán Hàng, khách hàng không chỉ hòa chung nhịp đập chuyển đổi số mà vẫn tiết kiệm chi phí đầu tư, mang đến những giao diện, trải nghiệm khách hàng tốt nhất cho khách hàng. Bên cạnh đó còn là một cộng đồng cùng nhau xây dựng brand, dấu ấn cá nhân của thương hiệu mình.
 
 Đối với những cửa hàng có chỉ số giao dịch thấp trên sổ, cần có nghĩ ra giải pháp để tăng doanh số, ví dụ tạo hệ thống recommendation về các bài viết xây dựng thương hiệu trên blog để họ có thể tham khảo, nghiên cứu cách xây dựng brand. 
+
+[Dữ liệu phân tích](https://github.com/Quan-Thi-Thanh-Hoa/Little_project/blob/70f86234867cfc2f5c942b38de44b0e93b44fb74/Business-performance.xlsx)
