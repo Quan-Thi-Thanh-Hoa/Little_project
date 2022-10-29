@@ -1,6 +1,10 @@
 ## Report SoBanHang's Analyst Performance
 
-## SOBANHANG'S TRAFFIC TREND
+## SOBANHANG'S Traffic Trend
+
+Trực quan hóa dữ liệu bằng [!Power BI]
+
+<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/20ed60b1896ee9a43106a6e2d0e5850a6f5d3de8/Screenshot%202022-10-29%20152547.png">
 
 Có thể thấy được 6 tệp khách hàng chủ yếu ở khu vực miền nam và miền trung, đối với miền bắc hiện mới có thủ đô ở hà nội có số lượng khách hàng quan tâm lớn. Các tỉnh phát triển mạnh về kinh tế hiện nay như Việt trì, Vĩnh phúc, Bắc ninh cũng có thể nghiên cứu kế hoạch để làm chiến dịch marketing thu hút lượng khách hàng ở thị trường này.
 
@@ -13,10 +17,6 @@ Như đã nêu bên trên ở quá trình phân tích dữ liệu, ta có thể 
 Về khách hàng: Chúng ta thấy được thời lượng trung bình của các phiên đăng nhập tại các khu vực tìm ra 1,000 khách hàng quan tâm nhất đối với SoBanHang ở các khu vực trên tổng 30,000 user_id để mình hành động cho những chiến dịch chăm sóc, tri ân khách hàng của SoBanHang. 1,000 khách hàng và tỉnh thành em sẽ để ở file đính kèm với báo cáo.
 
 Các chỉ số về impression tại line and stacked column chart cho ta thấy được luôn giữ vị trí cao nhất ở screen_name là: report_management, sau đó là promotion_management và thất nhất là kênh chat_management. Vậy ta sẽ lên kế hoạch tạo trải nghiệm khách hàng tập trung tại các kênh có lưu lượng truy cập cao, và hành động để tìm hiểu lý do kênh chat và kênh community lại có lượng truy cập thấp hơn các kênh còn lại, và trả lời câu hỏi cần thiết “Phải làm sao để cải tăng lưu lượng click tại các kênh này của khách hàng?”
-
-Trực quan hóa dữ liệu bằng [!Power BI]
-
-<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/20ed60b1896ee9a43106a6e2d0e5850a6f5d3de8/Screenshot%202022-10-29%20152547.png">
 
 ## SoBanHang's demongraphics
 
