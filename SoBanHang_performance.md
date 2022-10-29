@@ -92,3 +92,5 @@ Không nhất thiết phải bỏ tiền vào TVC để phát sóng, muốn vira
 Đối với những cửa hàng có chỉ số giao dịch thấp trên sổ, cần có nghĩ ra giải pháp để tăng doanh số, ví dụ tạo hệ thống recommendation về các bài viết xây dựng thương hiệu trên blog để họ có thể tham khảo, nghiên cứu cách xây dựng brand. 
 
 [Dữ liệu phân tích](https://github.com/Quan-Thi-Thanh-Hoa/Little_project/blob/70f86234867cfc2f5c942b38de44b0e93b44fb74/Business-performance.xlsx)
+
+[Báo cáo hoàn chỉnh](https://github.com/Quan-Thi-Thanh-Hoa/Little_project/blob/a92a68a1677996ca2d35105128479588df21e017/Analyst%20busiess%20perfomance.pdf)
