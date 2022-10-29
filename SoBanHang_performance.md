@@ -20,6 +20,8 @@ Các chỉ số về impression tại line and stacked column chart cho ta thấ
 
 ## SoBanHang's demongraphics
 
+<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/20ed60b1896ee9a43106a6e2d0e5850a6f5d3de8/Screenshot%202022-10-29%20152829.png">
+
 Đầu tiên chúng ta hiểu nhân khẩu học là gì?
 Nhân khẩu học được hiểu là quá trình thu thập và nghiên cứu các dữ liệu liên quan tới đặc điểm về tuổi tác, giới tính và chủng tộc của con người.
 Phân tích nhân khẩu học dựa theo các yếu tố trên có thể được áp dụng cho một nhóm đối tượng/ nhóm người nào đó hoặc toàn bộ xã hội.
@@ -35,9 +37,10 @@ Tuy nhiên các chỉ số ở cả hai ngành hàng cho thấy số lượng gi
 Từ đây, ta cũng thấy được đối với nhóm hàng F&B, lượng khách hàng quan tâm chính sẽ ở khu vực Hà Nội và tương tự như thế, tại Long An, nhóm khách hàng quan tâm chính ở đây là thực phẩm.
 
 
-<img src="https://github.com/Quan-Thi-Thanh-Hoa/Funda_Python/blob/20ed60b1896ee9a43106a6e2d0e5850a6f5d3de8/Screenshot%202022-10-29%20152829.png">
-
 ## personal marketing brand
+
+<img src="https://media-exp1.licdn.com/dms/image/C561BAQEWcBOxrvwIqA/company-background_10000/0/1650336590949?e=2147483647&v=beta&t=ODhLo7XemuwDF6BmG0d-r2OZRMo0vU56Eybgfrxll8k">
+
 SoBanHang đều đặn chăm sóc fanpage để marketing thương hiệu và tiếp cận khách hàng, tuy nhiên lượt tiếp cận và lượng tương tác chưa được cao.
 Cần giải quyết bài toán thuật toán của Facebook, lượng người share bài viết sẽ rất quan trọng nhưng bài viết chưa đạt tới được emotion của khách hàng để khiến họ sẵn sàng share.
 
